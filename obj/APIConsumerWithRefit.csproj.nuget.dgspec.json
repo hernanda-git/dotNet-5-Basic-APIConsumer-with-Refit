@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\APIConsumerWithRefit.csproj": {}
+    "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\dotNet-5-Basic-APIConsumer-with-Refit\\APIConsumerWithRefit.csproj": {}
   },
   "projects": {
-    "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\APIConsumerWithRefit.csproj": {
+    "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\dotNet-5-Basic-APIConsumer-with-Refit\\APIConsumerWithRefit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\APIConsumerWithRefit.csproj",
+        "projectUniqueName": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\dotNet-5-Basic-APIConsumer-with-Refit\\APIConsumerWithRefit.csproj",
         "projectName": "APIConsumerWithRefit",
-        "projectPath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\APIConsumerWithRefit.csproj",
+        "projectPath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\dotNet-5-Basic-APIConsumer-with-Refit\\APIConsumerWithRefit.csproj",
         "packagesPath": "C:\\Users\\Hernanda\\.nuget\\packages\\",
-        "outputPath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\obj\\",
+        "outputPath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\dotNet-5-Basic-APIConsumer-with-Refit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Refit": {
+              "target": "Package",
+              "version": "[6.0.38, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

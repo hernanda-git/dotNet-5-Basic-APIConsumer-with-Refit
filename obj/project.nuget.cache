@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zRACmrOtpueAFllb38IAFB7MkYc6c3bom5vloqmH7LPt44lszEMqQfKInow3lMuWQITPTme+io/E3G73vypmVQ==",
+  "dgSpecHash": "mugpNwogN2uxeLGRhtf41ooYYaUyaJx0KW30sUxOTW0sTRZ8Kw6oIhohxdIwDvmkw2djWmjQR3O57emFXUG90Q==",
   "success": true,
-  "projectFilePath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\APIConsumerWithRefit.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\APIConsumerWithRefit\\dotNet-5-Basic-APIConsumer-with-Refit\\APIConsumerWithRefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hernanda\\.nuget\\packages\\refit\\6.0.38\\refit.6.0.38.nupkg.sha512",
+    "C:\\Users\\Hernanda\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
