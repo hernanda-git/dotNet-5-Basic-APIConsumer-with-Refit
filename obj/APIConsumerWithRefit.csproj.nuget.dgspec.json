@@ -45,9 +45,21 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Refit": {
               "target": "Package",
               "version": "[6.0.38, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[6.0.38, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
             }
           },
           "imports": [
