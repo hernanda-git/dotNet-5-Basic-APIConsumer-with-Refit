@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIConsumerWithRefit", "APIConsumerWithRefit.csproj", "{9D054965-EF1E-4900-9B10-A07F9062E04C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D054965-EF1E-4900-9B10-A07F9062E04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D054965-EF1E-4900-9B10-A07F9062E04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D054965-EF1E-4900-9B10-A07F9062E04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D054965-EF1E-4900-9B10-A07F9062E04C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45FCEA1B-4F4D-4679-829A-11AB66581BDD}
+	EndGlobalSection
+EndGlobal
